@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716166659204",
+    "project_id": "uber-ola-and-in-driver-c-96ab1",
+    "storage_bucket": "uber-ola-and-in-driver-c-96ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716166659204:android:3bf5d474783b02b58116d1",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCREnlNUa3iecNG2NDq5JnKJx_CxRzdNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
